@@ -1,0 +1,14 @@
+body {
+    color: rgb(9, 65, 9);
+    background-color: tan;
+}
+
+.jumbotron {
+    background-image: url(team.jpg);
+    background-attachment: scroll;
+    background-size: contain;
+}
+.display-4 {
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(231, 230, 224)
+}
